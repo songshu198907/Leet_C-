@@ -1,0 +1,5 @@
+﻿  Test.cpp
+c:\users\shu\documents\visual studio 2015\projects\project1\project1\test.cpp(21): error C3867: 'Stack::top': non-standard syntax; use '&' to create a pointer to member
+c:\users\shu\documents\visual studio 2015\projects\project1\project1\test.cpp(24): error C3867: 'Stack::empty': non-standard syntax; use '&' to create a pointer to member
+  Stack.cpp
+  Generating Code...
